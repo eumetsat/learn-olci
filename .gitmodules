@@ -1,0 +1,8 @@
+[submodule "frameworks"]
+	path = frameworks
+	url = https://github.com/eumetsat/frameworks.git
+	branch = main
+[submodule "working-with-python"]
+	path = working-with-python
+	url = https://github.com/eumetsat/working-with-python.git
+	branch = main
