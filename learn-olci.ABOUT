@@ -64,6 +64,7 @@ about_resource: ./img/thumbs/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_
 about_resource: ./img/thumbs/2_3b_OLCI_SNAP_batch_processing_C2RCC_thumb.png
 about_resource: ./img/thumbs/2_4_OLCI_matchup_validation_thumb.png
 about_resource: ./img/thumbs/2_5_multisensor_matchup_validation_thumb.png
+about_resource: ./binder/environment.yml
 about_resource: CHANGELOG
 about_resource: CONTRIBUTING.txt
 about_resource: AUTHORS.txt
