@@ -4,7 +4,6 @@ name: cmts_learn_olci
 channels:
   - conda-forge
   - cmts
-  - eumetsat
 dependencies:
   # Core
   - conda-forge::bokeh
