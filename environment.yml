@@ -13,6 +13,7 @@ dependencies:
   - conda-forge::dask
   - conda-forge::dask-labextension
   - conda-forge::distributed
+  - conda-forge::eumdac
   - conda-forge::hda
   - conda-forge::ipywidgets
   - conda-forge::jupyterlab
@@ -28,7 +29,6 @@ dependencies:
     - destinelab
   # External
   - cmts::eumartools
-  - eumetsat::eumdac
   # Extension
   - conda-forge::copernicusmarine
   # Extension: ThoMaS support

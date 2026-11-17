@@ -2,14 +2,18 @@
 
 <hr>
 
-[![Python](https://img.shields.io/badge/python%203.10-anaconda-green)](https://www.anaconda.com/products/distribution)
+[![Python](https://img.shields.io/badge/python%203.13-anaconda-green)](https://www.anaconda.com/products/distribution)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
-[![EUMETLAB](https://img.shields.io/badge/open-EUMETLAB-E67E22.svg)](https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/sensors/learn-olci)
-[![USER PORTAL](https://img.shields.io/badge/open-USER%20PORTAL-154360.svg)](https://user.eumetsat.int/data/themes/marine)
+[![EUMETSAT GitHub](https://img.shields.io/badge/github-eumetsat-blue?logo=github)](https://github.com/eumetsat/learn-olci)
+[![USER PORTAL](https://raw.githubusercontent.com/eumetsat/frameworks/refs/heads/main/img/open-user-portal.svg)](https://user.eumetsat.int/data/themes/marine)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eumetsat/learn-olci/HEAD?labpath=Index.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.eumetsat.int%2Feumetlab%2Foceans%2Focean-training%2Fsensors%2Flearn-olci/HEAD?labpath=Index.ipynb)
-[![WEkEO](https://img.shields.io/badge/launch-WEKEO-1a4696.svg)](https://jupyterhub.prod.wekeo2.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-olci/Index.ipynb)
-[![Stack](https://img.shields.io/badge/launch-Stack-2596be.svg)](https://jupyter.central.data.destination-earth.eu/)
-[![Insula](https://img.shields.io/badge/launch-DestinE_Insula_Code-f43fd3.svg)](https://code.insula.destine.eu/)
+
+[![WEkEO](https://raw.githubusercontent.com/eumetsat/frameworks/refs/heads/main/img/launch-wekeo.svg)](https://jupyterhub.prod.wekeo2.eu/hub/user-redirect/lab/tree/public/wekeo4oceans/learn-olci/Index.ipynb)
+[![DEDL STACK](https://raw.githubusercontent.com/eumetsat/frameworks/refs/heads/main/img/launch-dedl-stack.svg)](https://jupyter.central.data.destination-earth.eu/)
 
 ## Overview
 
@@ -30,16 +34,15 @@ This software and all associated intellectual property rights (IPRs) are owned b
 ## License
 
 This code is licensed under an MIT license. See file LICENSE.txt for details on 
-the usage and distribution terms. No dependencies are distributed as part of this 
-package. Copyright 2026 European Union.
+the usage and distribution terms. No dependencies are distributed as part of this package. 
+Copyright (c) 2026 European Union.
 
-All product names, logos, and brands are property of their respective owners. 
-All company, product and service names used in this website are for identification 
-purposes only.
+All product names, logos, and brands are property of their respective owners. All company, 
+product and service names used in this website are for identification purposes only.
 
 ## Authors
 
-* [**Ben Loveday**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
+* [**Ben Evers-Loveday**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 * [**Hayley Evers-King**](mailto://ops@eumetsat.int) - [EUMETSAT](http://www.eumetsat.int)
 
 Please see the AUTHORS.txt file for more information on contributors.

@@ -1,5 +1,5 @@
 # List of development authors
-* Ben Loveday (Innoflair UG / EUMETSAT)
+* Ben Evers-Loveday (EUMETSAT)
 * Joana Brito (Innoflair UG / EUMETSAT)
 * Hayley Evers-King (EUMETSAT)
 * Juan Ignacio-Gossn (EUMETSAT)
