@@ -26,17 +26,17 @@ dependencies:
   - conda-forge::scipy
   - conda-forge::shapely
   - conda-forge::xarray
-  - pip:
-    - destinelab
+#  - pip:
+#    - destinelab
   # External
-  - cmts::eumartools
+#  - cmts::eumartools
   # Extension
-  - conda-forge::copernicusmarine
+#  - conda-forge::copernicusmarine
   # Extension: ThoMaS support
-  - conda-forge::beautifulsoup4
-  - conda-forge::cdsapi
-  - conda-forge::earthaccess
-  - conda-forge::ephem
-  - conda-forge::pandas=2.3.3
-  - conda-forge::urllib3
-  - conda-forge::statsmodels
+#  - conda-forge::beautifulsoup4
+#  - conda-forge::cdsapi
+#  - conda-forge::earthaccess
+#  - conda-forge::ephem
+#  - conda-forge::pandas=2.3.3
+#  - conda-forge::urllib3
+#  - conda-forge::statsmodels
