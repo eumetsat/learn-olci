@@ -4,6 +4,8 @@ name: cmts_learn_olci
 channels:
   - conda-forge
   - cmts
+solver:
+  - libmamba
 dependencies:
   # Core
   - conda-forge::bokeh
